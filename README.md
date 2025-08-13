@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-Aplicación web sencilla que permite ingresar una lista de nombres y, al presionar un botón, sortear un nombre al azar (el "número secreto" o amigo secreto).
+Aplicación web sencilla que permite ingresar una lista de nombres y, al presionar un botón, sortear un nombre al azar el  "amigo secreto".
 
 ## 🚀 Características
 
