@@ -34,6 +34,11 @@ Aplicación web sencilla que permite ingresar una lista de nombres y, al presion
 4. Repetir el proceso para todos los participantes.
 5. **Presionar "Sortear amigo"** para mostrar el nombre sorteado en pantalla.
 
+**💻 Probar en línea:**  
+👉 [https://luiseer.github.io/amigo-secreto/](https://luiseer.github.io/amigo-secreto/)
+
+---
+
 ## 📸 Captura de pantalla
 
 ![Vista previa de la aplicación](assets/amigo-secreto.png)
